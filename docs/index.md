@@ -1,17 +1,19 @@
-# Welcome to MkDocs
+---
+hide:
+  - navigation
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# TOP
 
-## Commands
+**のうこう⭐︎ロボコンズ**は[第20回全日本学生室内飛行ロボットコンテスト](http://indoor-flight.com/)のマルチコプター部門にエントリーしたチームです．
+本チームで開発するフライトコントローラに関する技術は本ページにて公開する予定です．
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## コンセプト
+- 耐故障制御を達成可能な8発機を作成すること
+- フライトコントローラーを自作すること
 
-## Project layout
+## フライトコントローラ
+Comming soon
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 機体
+Comming soon

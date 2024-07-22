@@ -1,4 +1,4 @@
-site_name: のうこう✰ロボコンズ
+site_name: のうこう⭐︎ロボコンズ
 repo_url: https://github.com/SatoshiRC/NK-Robocons
 
 theme:
@@ -18,7 +18,8 @@ theme:
   features:
     - navigation.top
     - content.code.annotate
-  
+
+ 
 extra:
   social:
     - icon: fontawesome/brands/twitter
@@ -48,3 +49,6 @@ extra_css:
 
 nav:
 - TOP: index.md
+
+hide:
+  - navigation
